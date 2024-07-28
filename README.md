@@ -1,5 +1,7 @@
 # RAID
 
+https://fr.wikipedia.org/wiki/RAID_(informatique)
+
 Sous Windows, les différents types de RAID (Redundant Array of Independent Disks) sont les suivants :
 
 RAID 0 (Striping) :
